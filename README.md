@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Claude Abinader
-### Software Developer 
 
 **📍 Based in:** Haifa, Israel  
 **📫 Contact me at:** [anneclaudeabinader7@gmail.com](mailto:anneclaudeabinader7@gmail.com)
