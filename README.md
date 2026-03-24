@@ -7,7 +7,7 @@
 
 ### What I'm Currently Working On
 *  **AI:** Developing a Retrieval-Augmented Generation (RAG) chatbot designed to navigate and query university site data.
-*  **Exploring:** Advanced techniques in Deep Learning, Natural Language Processing, and Image Processing.
+*  **Exploring:** Advanced techniques in Deep Learning, Natural Language Processing.
 
 ### Skills
 <p align="left">
