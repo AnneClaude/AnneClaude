@@ -6,7 +6,6 @@
 ---
 
 ### What I'm Currently Working On
-*  **Android Development:** Building a comprehensive time-management application featuring a timer, calendar, to-do list, and mood tracker (Java & Firebase).
 *  **AI:** Developing a Retrieval-Augmented Generation (RAG) chatbot designed to navigate and query university site data.
 *  **Exploring:** Advanced techniques in Deep Learning, Natural Language Processing, and Image Processing.
 
